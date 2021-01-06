@@ -1,4 +1,6 @@
 # vue-weather-app
+a small weather app was built using vue.js .
+
 
 ## Project setup
 ```
